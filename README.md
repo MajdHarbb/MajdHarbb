@@ -24,18 +24,19 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="JAVA" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/java-logo-png-transparent.png" />][webdevplaylist]
 [<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/java-logo-png-transparent.png" />][webdevplaylist]
-
+[<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/java-logo-png-transparent.png" />][webdevplaylist]
+<br />
 <h4>💾 Databases</h4> 
 
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-
+<br />
 <h4>📚 Frameworks and Libraries</h4>
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="FLUTTER" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/flutter.png" />][webdevplaylist]
 [<img align="left" alt="LARAVEL" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/laravel.png" />][webdevplaylist]
-
+<br />
 <h4>⚙Version Control</h4>
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
