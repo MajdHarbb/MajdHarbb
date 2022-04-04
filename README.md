@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Web Developer
 - 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🚀 I’m always open to new learning experiences
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I play chess ♟
@@ -14,23 +14,33 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+<h4>📋 Languages</h4>
+
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="JAVA" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/java-logo-png-transparent.png" />][webdevplaylist]
-[<img align="left" alt="FLUTTER" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/flutter.png" />][webdevplaylist]
 [<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/java-logo-png-transparent.png" />][webdevplaylist]
-[<img align="left" alt="LARAVEL" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/laravel.png" />][webdevplaylist]
+[<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/java-logo-png-transparent.png" />][webdevplaylist]
+<br />
+<h4>💾 Databases</h4> 
 
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+<br />
+<h4>📚 Frameworks and Libraries</h4>
+
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="FLUTTER" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/flutter.png" />][webdevplaylist]
+[<img align="left" alt="LARAVEL" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/laravel.png" />][webdevplaylist]
+<br />
+<h4>⚙Version Control</h4>
+
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 <br />
 <br />
 
