@@ -1,7 +1,7 @@
 ### Hi there, I'm Majd 👋
 
 ## I'm a Full Stack Web Developer
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I just learned flutter!
 - 🚀 I’m always open to new learning experiences
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
