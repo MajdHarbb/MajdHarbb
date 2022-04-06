@@ -8,10 +8,10 @@
 - ⚡ Fun fact: I play chess ♟
 
 ### Connect with me:
-<p>
-  <a href="https://www.linkedin.com/in/majd-harb/" target="_blank"> <img height="28" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-  <a href="https://www.instagram.com/majd.harbb/" target="_blank"><img height="28" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
-</p>
+
+[<img align="left" alt="majdharb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="majdharb | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
 
 ## Languages and Tools:
@@ -49,12 +49,11 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MajdHarbb&show_icons=true&hide_border=true" />
 
-[website]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0){:target="_blank"}
-[twitter]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0){:target="_blank"}
-[instagram]:(https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0){:target="_blank"}
-[linkedin]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0){:target="_blank"}
-[webdevplaylist]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0){:target="_blank"}
-[jsplaylist]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0){:target="_blank"}
-[cssplaylist]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0){:target="_blank"}
+[website]: (https://codeSTACKr.com){:target="_blank"}
+[twitter]: (https://twitter.com/codeSTACKr){:target="_blank"}
+[instagram]:(https://www.instagram.com/majd.harbb/){:target="_blank"}
+[linkedin]: (https://www.linkedin.com/in/majd-harb/){:target="_blank"}
+[webdevplaylist]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt){:target="_blank"}
+[jsplaylist]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B){:target="_blank"}
+[cssplaylist]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4){:target="_blank"}
 [reactplaylist]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0){:target="_blank"}
-[link name](url_link){:target="_blank"}
