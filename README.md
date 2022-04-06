@@ -12,7 +12,11 @@
   <a href="https://www.linkedin.com/in/majd-harb/" target="_blank"> <img height="28" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
   <a href="https://www.instagram.com/majd.harbb/" target="_blank"><img height="28" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 </p>
-
+<p>
+  <a href="https://www.linkedin.com/in/majd-harb/" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/majd-harb/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/majd-harb/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</p>  
 <br />
 
 ## Languages and Tools:
