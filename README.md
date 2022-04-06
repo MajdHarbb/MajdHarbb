@@ -11,9 +11,7 @@
 <p>
   <a href="https://www.linkedin.com/in/majd-harb/" target="_blank"> <img height="28" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
   <a href="https://www.instagram.com/majd.harbb/" target="_blank"><img height="28" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
-</p>  
-[<img align="left" alt="majdharb | LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="majdharb | Instagram" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+</p>
 
 <br />
 
