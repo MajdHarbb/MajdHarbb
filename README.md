@@ -29,12 +29,12 @@
 <br />
 <h4>💾 Databases</h4> 
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][mysql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][sql]
 <br />
 <h4>📚 Frameworks and Libraries</h4>
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="FLUTTER" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/flutter.png" />][flutter]
 [<img align="left" alt="LARAVEL" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/laravel.png" />][laravel]
 <br />
@@ -49,7 +49,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MajdHarbb&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
+[sql]: https://www.mysql.com/
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]:https://www.instagram.com/majd.harbb/
 [linkedin]: https://www.linkedin.com/in/majd-harb/
