@@ -18,30 +18,30 @@
 
 <h4>📋 Languages</h4>
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img align="left" alt="JAVA" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/java-logo-png-transparent.png" />][webdevplaylist]
-[<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/dart.png" />][webdevplaylist]
-[<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/php.png" />][webdevplaylist]
-[<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/python.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][cmd]
+[<img align="left" alt="JAVA" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/java-logo-png-transparent.png" />][java]
+[<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/dart.png" />][dart]
+[<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/php.png" />][php]
+[<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/python.png" />][python]
 <br />
 <h4>💾 Databases</h4> 
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][mysql]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 <br />
 <h4>📚 Frameworks and Libraries</h4>
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="FLUTTER" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/flutter.png" />][webdevplaylist]
-[<img align="left" alt="LARAVEL" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/laravel.png" />][webdevplaylist]
+[<img align="left" alt="FLUTTER" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/flutter.png" />][flutter]
+[<img align="left" alt="LARAVEL" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/laravel.png" />][laravel]
 <br />
 <h4>⚙Version Control</h4>
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 <br />
 <br />
 
@@ -49,11 +49,23 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MajdHarbb&show_icons=true&hide_border=true" />
 
-[website]: (https://codeSTACKr.com){:target="_blank"}
-[twitter]: (https://twitter.com/codeSTACKr){:target="_blank"}
-[instagram]:(https://www.instagram.com/majd.harbb/){:target="_blank"}
-[linkedin]: (https://www.linkedin.com/in/majd-harb/){:target="_blank"}
-[webdevplaylist]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt){:target="_blank"}
-[jsplaylist]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B){:target="_blank"}
-[cssplaylist]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4){:target="_blank"}
-[reactplaylist]: (https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0){:target="_blank"}
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/codeSTACKr
+[instagram]:https://www.instagram.com/majd.harbb/
+[linkedin]: https://www.linkedin.com/in/majd-harb/
+[webdevplaylist]: https://flutter.dev/
+[jsplaylist]: https://www.javascript.com/
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[react]: https://reactjs.org/
+[flutter]: https://flutter.dev/
+[laravel]: https://laravel.com/
+[github]: https://github.com/
+[git]: https://git-scm.com/
+[html]: https://html.com/
+[css]: https://www.w3schools.com/css/
+[js]: https://www.javascript.com/
+[cmd]: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cmd
+[java]: https://www.java.com/
+[dart]: https://dart.dev/
+[php]: https://www.php.net/
+[python]: https://www.python.org/
