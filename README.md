@@ -20,8 +20,7 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/typescript.png" />][js]
-[<img align="left" alt="TypeScript" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/dart.png" />][js]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][cmd]
 [<img align="left" alt="JAVA" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/java-logo-png-transparent.png" />][java]
 [<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/dart.png" />][dart]
