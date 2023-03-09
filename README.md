@@ -21,6 +21,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="TypeScript" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/typescript.png" />][ts]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][cmd]
 [<img align="left" alt="JAVA" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/java-logo-png-transparent.png" />][java]
 [<img align="left" alt="DART" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/dart.png" />][dart]
@@ -35,7 +36,7 @@
 <h4>📚 Frameworks and Libraries</h4>
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="NEXTJS" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/nextjs.png" />][nextjs]
+[<img align="left" alt="NEXTJS" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/next-js.svg" />][nextjs]
 [<img align="left" alt="VUEJS" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/Vue.js_Logo_2.svg.png" />][vuejs]
 [<img align="left" alt="FLUTTER" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/flutter.png" />][flutter]
 [<img align="left" alt="LARAVEL" width="26px" src="https://github.com/MajdHarbb/MajdHarbb/blob/master/icons/laravel.png" />][laravel]
@@ -73,3 +74,4 @@
 [python]: https://www.python.org/
 [nextjs]: https://nextjs.org/
 [vuejs]: https://vuejs.org/
+[ts]: https://www.typescriptlang.org/
